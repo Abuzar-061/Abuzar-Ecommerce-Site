@@ -1,4 +1,4 @@
-# Abuzar - An eCommerce Website
+# Anon - An eCommerce Website
 
 ![GitHub repo size](https://img.shields.io/github/repo-size/codewithsadee/anon-ecommerce-website)
 ![GitHub stars](https://img.shields.io/github/stars/codewithsadee/anon-ecommerce-website?style=social)
@@ -19,9 +19,9 @@ Before you begin, ensure you have met the following requirements:
 
 * [Git](https://git-scm.com/downloads "Download Git") must be installed on your operating system.
 
-## Installing Abuzar
+## Installing Anon
 
-To install **Abuzar**, follow these steps:
+To install **Anon**, follow these steps:
 
 Linux and macOS:
 
